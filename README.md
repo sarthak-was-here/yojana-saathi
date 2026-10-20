@@ -4,7 +4,7 @@
 
 Yojana Saathi is an agentic AI assistant that helps citizens discover government schemes they may qualify for. It supports Hindi, English and Hinglish text or voice input, builds a structured user profile, evaluates eligibility using a deterministic rule engine, and provides personalised application guidance.
 
-## ✨ Features
+## Features
 
 - **Multilingual interaction:** Chat in Hindi, English or Hinglish.
 - **Voice input:** Describe your situation by speaking.
@@ -15,7 +15,7 @@ Yojana Saathi is an agentic AI assistant that helps citizens discover government
 - **Agent reasoning trace:** Inspect the tools called by the agent and their results.
 - **Privacy-conscious design:** The app does not ask users for Aadhaar numbers, OTPs or passwords.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - Python 3
 - Google Gemini via the `google-genai` SDK
@@ -23,7 +23,7 @@ Yojana Saathi is an agentic AI assistant that helps citizens discover government
 - JSON-based scheme knowledge base
 - Custom Python eligibility engine
 
-## 🚀 Run Locally
+## Run Locally
 
 ### 1. Clone the repository
 
